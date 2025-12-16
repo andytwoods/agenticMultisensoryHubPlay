@@ -31,6 +31,8 @@ export const Node = ({ label, x, y, isActive, onClick, category }: NodeProps) =>
                 top: '50%',
                 x,
                 y,
+                translateX: '-50%',
+                translateY: '-50%',
             }}
             onClick={onClick}
             whileHover={{ scale: 1.1, zIndex: 10 }}

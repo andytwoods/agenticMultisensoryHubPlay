@@ -23,8 +23,8 @@
             "summary": "Wind was found to be one of the most impactful elements for presence.",
             "content": "Participants experienced fans simulating wind at different intensities. \n\n**Finding:** Blowing wind was rated as one of the most impactful elements for presence, alongside free-roam walking. This supports previous research (e.g., Hülsmann et al., 2014) that wind bolsters the sensation of being there.",
             "position": {
-                "x": 200,
-                "y": -150
+                "x": 150,
+                "y": -120
             },
             "image": "/images/image3.png"
         },
@@ -36,8 +36,8 @@
             "summary": "Walking freely contributed significantly to the sense of agency and presence.",
             "content": "The audience walked through a 15-minute experience. \n\n**Finding:** Free-roam walking was tied with wind as the most impactful element. The ability to move naturally increases the 'Sense of Agency'—the feeling of 'I did this' rather than 'this was done for me'.",
             "position": {
-                "x": 250,
-                "y": 100
+                "x": 180,
+                "y": 80
             }
         },
         {
@@ -48,8 +48,8 @@
             "summary": "Vibrating floors simulated ground shaking, comparable to seeing avatars in impact.",
             "content": "Floor vibration plates were used to simulate the ground shaking for about 30 seconds. \n\n**Finding:** Contrary to some expectations (the 'Vibrotactile Less Effective Hypothesis'), vibration was fairly impactful, ranking below wind/walking but similar to avatars. Regular VR users rated it slightly higher than occasional users.",
             "position": {
-                "x": -200,
-                "y": -100
+                "x": -150,
+                "y": -80
             }
         },
         {
@@ -60,8 +60,8 @@
             "summary": "Seeing other real people as avatars boosted social presence and plausibility.",
             "content": "Participants could see each other's avatars almost continuously. \n\n**Finding:** Seeing avatars of real people enhanced the 'Plausibility Illusion'—the feeling that events are actually happening. It ranked similarly to floor vibration in impact.",
             "position": {
-                "x": -150,
-                "y": 150
+                "x": -120,
+                "y": 120
             }
         },
         {
@@ -73,7 +73,7 @@
             "content": "Participants saw their own virtual hands via finger trackers. \n\n**Finding:** Virtual hands were rated as the *least* influential element on presence. \n\n**Why?** \n1. The experience didn't require hand interactions (unlike stone-moving tasks in other studies).\n2. Virtual hands are now common in standard VR, so they may seem less 'novel' or 'special' to users.",
             "position": {
                 "x": 0,
-                "y": 250
+                "y": 200
             },
             "image": "/images/image1.png"
         },
@@ -85,7 +85,7 @@
             "summary": "To boost presence: Focus on Wind and Walking.",
             "content": "This study of 726 participants in a real-world setting (Royal Opera House) suggests that to maximize presence in Hyper-Reality:\n\n1. **Prioritize Wind & Free-Roam Walking**: These have the highest perceived impact.\n2. **Vibration & Avatars**: Moderate impact.\n3. **Visual Fidelity of Hands**: Lower priority unless the task specifically requires manual interaction.\n\nDesigners should focus budget and technical effort on environmental haptics and freedom of movement.",
             "position": {
-                "x": 400,
+                "x": 220,
                 "y": 0
             }
         }
