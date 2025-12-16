@@ -92,6 +92,21 @@ export const InteractiveMap = () => {
                     dragConstraints={{ left: -1000, right: 1000, top: -1000, bottom: 1000 }}
                     className="absolute left-1/2 top-1/2 w-0 h-0" // Center origin
                 >
+                    {/* Giant invisible hit-area for panning */}
+                    <div
+                        className="absolute -top-[2500px] -left-[2500px] w-[5000px] h-[5000px]"
+                        style={{ cursor: 'grab' }}
+                        onMouseDown={(e) => {
+                            if (e.target === e.currentTarget) {
+                                e.currentTarget.style.cursor = 'grabbing';
+                            }
+                        }}
+                        onMouseUp={(e) => {
+                            if (e.target === e.currentTarget) {
+                                e.currentTarget.style.cursor = 'grab';
+                            }
+                        }}
+                    />
                     {publicationData.nodes.map((node) => (
                         <OrbitingNode
                             key={node.id}
