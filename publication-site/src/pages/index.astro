@@ -1,0 +1,21 @@
+---
+import { InteractiveMap } from '../components/InteractiveMap';
+import '../styles/global.css'; // We need to create this or ensure Tailwind works
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Beyond the Ordinary | Multisensory VR</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap" rel="stylesheet">
+	</head>
+	<body class="bg-black overflow-hidden">
+		<InteractiveMap client:only="react" />
+	</body>
+</html>

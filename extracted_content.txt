@@ -1,0 +1,344 @@
+Article Title: Going Beyond the Ordinary – User Perceptions of the Impact of Multisensory Elements on Presence in Virtual Reality at the Royal Opera House
+
+Andy T. Woods12, Marusa Levstek12, Jamie Moffatt2, Mark Lycett13, Laryssa Whittaker14, Polly Dalton12
+
+1StoryFutures, Royal Holloway, University of London, UK 
+2Department of Psychology, Royal Holloway, University of London, UK 
+3School of Business Management, Royal Holloway, University of London, UK 
+4Department of Media Arts, Royal Holloway, University of London, UK 
+
+Corresponding author: Andy T. Woods, Andy.Woods@Rhul.ac.uk, StoryFutures, Royal Holloway, University of London, UK
+
+Declaration of competing interest: The other authors report no conflict of interest.
+
+Abstract:
+This exploratory study investigates the relative impacts of incorporating additional sensory- and embodiment-enhancing elements into virtual reality (VR) experiences beyond standard headset features, including vibrating floors, blowing wind, accurately rendered hands, free-roam walking and seeing avatars of real people; the outcome is sometimes called a hyper-reality experience. After taking part in the ‘Current Rising’ immersive experience at the Royal Opera House, 726 participants completed a survey examining the different perceived impacts the various additional elements were thought to have on presence. Blowing wind and free-roam walking were thought to be most impactful on presence, followed by floor vibration (contrary to expectations), along with seeing avatars. Conversely, virtual hands were thought to exhibit the least influence, despite being rendered with greater detail and precision than those commonly found in standard VR applications. Past VR experience only minimally affected these reported impacts, suggesting that hyper-reality experiences introduce novel elements even to experienced users. By looking at the perceived impact on presence over a rich, holistic range of factors (multisensory elements, virtual bodies, prior experience and enjoyment) in a real-world cultural experience, these findings offer practical guidance for immersive experience designers and researchers to optimise presence. Future research should explore more nuanced assessments of presence and consider non-correlational experimental designs that mitigate various highlighted potential biases and confounding factors.
+
+Keywords: VIRTUAL REALITY, MULTISENSORY, PRESENCE, EXPERIENCE, OPERA
+Introduction
+Location-based virtual reality (VR) attractions – here defined as immersive VR experiences requiring physical attendance at a specific venue – are gaining widespread popularity, with installations popping up in various locations, such as museums (Verhulst et al., 2021), commercial areas, and movie theatres (Bennett et al., 2021). Such VR attractions often go beyond the ordinary by stimulating the senses in ways exceeding the capabilities of stock headsets, for example, by employing vibrating floor plates, odour emitters, heaters and fans (Dinh et al., 1999; Jung et al., 2020; Flavián et al., 2021; Marucci et al., 2021). Some people refer to these increasingly accurate, more multisensory and embodying simulations (relative to that achievable by stock headsets) as ‘hyper-reality’ (e.g. Barroso, 2022). As will be discussed next, the additional sensory information presented in such hyper-reality experiences often boosts presence ratings, which in turn can lead to a range of positive outcomes and is increasingly seen as a key measure of success in immersive experiences (e.g. Bennett et al., 2021). However, the relative impacts of each additional sensory-enhancing element remain unclear. This research investigated the impacts on user experience, specifically presence, of a range of sensory additions to VR – including multisensory elements (blowing wind, floor vibration) and elements relating to virtual bodies (free roam walking, audience avatars and virtual hands) – while controlling for factors such as participants’ prior experience with VR. 
+
+Presence
+Presence, as defined by Slater et al. (2009, p. 194), is “the propensity of people to respond to virtually generated sensory data as if they were real.” These authors argue that it is distinct from ‘immersion’, which is seen as technology's ability “to deliver a surrounding and convincing environment” (Sanchez-Vives & Slater, 2005, p. 333). Slater (2009) proposes that presence is underpinned both by how convinced you are that you are in a given immersive environment, the illusion of Place, and by how likely it feels that something occurring in the virtual world is actually occurring, the illusion of Plausibility. 
+Presence has been identified as an important success metric for many VR experiences. For example, studies have found that higher presence scores in a VR experience are linked to greater enjoyment (e.g. Jung et al., 2016; Tussyadiah et al., 2018), better spatial learning (Parong et al., 2020, but not so for other types of learning, Makransky et al., 2019), better training outcomes (Grassini et al., 2020) and an interaction with experienced emotion (for a discussion see Diemer et al., 2015). After the experience, higher presence scores have been linked to a greater intention to re-visit museums (Jung et al., 2020; c.f. Trunfio et al., 2022), theme-parks (Wei et al., 2019) and tourist destinations (Tussadiah et al., 2018).
+
+Multisensory elements
+Given that incorporating additional sensory stimulation into a VR experience should increase the similarity of the virtual to the real world, we would expect that simulating more modalities should lead to a greater sense of presence (Gallace et al., 2012). In support of this view, via a within-subject design, Jung et al. (2020) had 17 participants experience eight virtual environments several times either through traditional VR sensory stimulation with vision and sound, or where a range of additional senses were stimulated, for a total of 32 exposures to the environments. Such environments included, for example, the participants being seated on a moving train, being near orange trees, hovering in helicopters, and even being close to a waterfall; although note that no participant virtual body was depicted. In reality, participants were seated on a chair placed on a custom-built vibration platform near a fan and an aroma diffuser. The authors found that presence was rated higher when extra senses were stimulated relative to just audiovisual VR.
+Building on these findings, Marucci et al. (2021) conducted a racing game experiment in which participants were asked to perform a task with varying numbers of modalities stimulated, such as vision alone, or a combination of vision with sound and vibration. The researchers measured task load via electroencephalography (EEG), and after each condition, they also evaluated the sense of presence. The combination of vision and touch had equivalent presence levels to the vision-only condition. However, the combination of vision, touch, and sound resulted in a significantly greater sense of presence than the vision-only condition, indicating that not all senses boost the feeling of presence in the same linear way. The authors also speculated that the absence of expected key sensory information, such as sound in their experiment, could diminish the sense of presence. This could happen if the absence undermined the plausibility of the scenario, given plausibility has already been identified as a key driver of presence (plausibility illusion; Slater, 2009).
+Further support for the idea that additional multisensory input can boost presence ratings comes from Dinh et al. (1999). They had participants explore a virtual office in a task that involved stimulating various combinations of modalities in different conditions for each participant. These included olfactory cues, such as the release of a coffee smell when participants walked past a coffee maker, as well as ambient auditory effects and tactile sensations, with air from a fan or the warmth from a heat lamp simulating sunlight on a balcony. The results showed that the auditory and tactile cues increased the sense of presence relative to conditions without auditory or tactile cues. However, there was no significant impact of olfactory sensation (c.f. Flavián et al., 2021). 
+Tactile stimulation can be incorporated into VR in various ways. Some studies have demonstrated that presence is bolstered by the sensation of wind (e.g. Hülsmann et al., 2014) and floor vibration (Grassini et al., 2021; Marucci et al., 2021), although the latter has not been a consistent finding. In a study by Jung et al. (2022), 39 pairs of participants sat on chairs placed on top of a custom-built vibration platform. Participants played a two-player game involving launching blocks via a cannon. Each participant undertook the task several times under different experimental conditions, including whether or not the floor vibrated. Whilst 83% of players preferred experiencing vibration as opposed to not experiencing vibration, there was no impactful effect of this on measures of presence; a similar finding was reported by the same team exploring the impact of floor vibrations in a driving experience (Jung et al., 2021). This mixed evidence may imply that vibrotactile sensation is simply not essential sensory information in some experiences. Alternatively, it may imply that the quality or pertinence of the delivered tactile feedback was insufficient to enhance presence ratings. Spence and Gao (2024a) point out that in VR, tactile stimulation often acts as a signal for various touch-based types and events, and can require some degree of interpretation from the user. However, this interpretative process can unintentionally disrupt the sense of presence, particularly if the tactile feedback does not adequately match the sensation it aims to replicate.
+Overall, with the possible exception of olfaction and floor vibration, the existing research seems to agree that the provision of even fairly basic types of additional sensory stimulation in VR can boost people’s sense of presence. Formalising some of this thinking, Slater et al. (2009) put forward the concept of ‘correlational presence’. This view draws on the assumption that experience with objects and events forms rich multisensory representations that can elicit similar responses to similar situations in the future. This closely aligns with the predictive coding hypothesis (De Lange, Heilbron & Kok, 2018), wherein the brain uses prior knowledge and sensory expectations to interpret and ‘fill in’ missing data. Given that the human perceptual system must deal with ‘messiness’ and variation in sensory signal in everyday operation, exposure to even partial sensation is often all that is needed to activate the full representation (“people use prior information in estimating stimulus values that are represented inexactly”, Huttenlocher et al., 2000, p. 221; Carrillo-Reid & Yuste, 2020). A good example of this is the common phenomenon of pareidolia, where meaningful patterns, like faces or figures, are perceived in random or ambiguous stimuli (Zhou & Meng, 2020), such as seeing a face on the moon's surface or perceiving human figures in shadows on dark streets. We speculate that this scope for allowable sensory variation suggests that it is not necessary to replicate sensation exactly in VR for it to prompt the representation of objects and events previously experienced in reality. Presumably, there are limits to this effect, suggesting the existence of a window of acceptable variation in all sensations that combine to form an object or event (window of acceptability; Woods et al., 2010). This window has been argued to be driven, Bayesian fashion, by the degree of variation in these sensory signals from past experiences; the greater this past variation, the less reliable the current signals are assumed to be, and so, presumably, the broader the acceptability window within which the signals can fall (e.g., Huttenlocher et al., 2000; De Lange, Heilbron & Kok, 2018). Sensory input that falls outside this window of acceptability will likely disrupt presence or even cause breaks in presence. Such disruptions can have physiological repercussions, which some researchers, including Slater et al. (2003), have proposed as a measurable indicator of presence. This perspective underscores the importance of accounting for participants' prior experiences, as we do here.
+
+Virtual bodies
+ In addition to examining the impact of added sensory information, the current research explores several factors related to virtual bodies: how presence is influenced by audience avatars, which are likely to impact social presence; free-roam walking, which allows more natural movement throughout the experience; and the depiction of virtual hands, which may affect embodiment. All these elements are also likely to impact presence, as outlined in more detail in the following sections.
+Does seeing avatars of other (real) people in the same virtual experience impact presence? One aspect of presence, the Plausibility Illusion – how likely a virtual experience is to elicit the feeling that something occurring in the virtual world is actually happening (Slater, 2009) – is presumably bolstered in this fashion (for a related review on social presence, see Oh, Bailenson & Welch, 2018). When you are aware that the avatars you are interacting with are not computer-controlled but are actual people who move and realistically interact with you, it stands to reason that this enhances plausibility (the illusion) and, in turn, presence (for a prescient discussion, see Heater, 1992). Accordingly, this ‘co-presence’ has been found to positively co-vary with presence (e.g. Slater et al., 2000) and task engagement (be it while playing whack-a-mole, Fribourg et al., 2018). We suspect that real-time knowledge during an immersive experience that avatars are controlled by actual people will enhance presence more significantly than if the same avatars were recorded and later reproduced in VR.
+Agency is seen as intertwined with presence by some (e.g. Sanchez-Vives & Slater, 2005) but has nevertheless received a lot of individual attention in the literature. Agency in the context of human-computer interaction and environments is “the sense that I am the one who is causing or generating an action …” (Gallagher, 2000, p15), which is the normal state of being for us day-to-day (Haggard & Chambon, 2012). According to Cornelio et al. (2022), a sense of agency arises when there is correspondence between your motor actions and sensory evidence that you have influenced an outcome; in terms of interacting with technology, the authors also state that a sense of agency is the difference between feeling “I did this” as opposed to “that was done for me.” Given the above, we would expect that the ability to move around in an experience freely would contribute to presence ratings, relative to experiences with less freedom. Further, the fact that users could walk naturally in the environment rather than having to learn some other kind of movement control (e.g. ‘teleporting’ using a hand-held controller) might also be expected to increase the sense of agency and presence. Demonstrating this, Sun et al. (2022) had participants rotate virtual objects within a head-mounted augmented reality experience using the Microsoft HoloLens 2. In the more natural condition, participants grasped and rotated objects by hand, whilst in the constrained condition, participants manipulated objects through standard computer-based transform tools such as rotating and scaling via a bounding box around the object. Participants experienced a higher level of agency in the more natural condition compared to the constrained one (see Kockord & Bodensiek, 2021; Johnson-Glenberg et al., 2016).
+A wide range of literature focuses on embodiment from various perspectives (e.g. Longo et al., 2008; Tsakiris, 2017), including VR, where the focus is on the impact of the incorporation of your own body into an immersive experience. Embodiment “...refers to the experience of owning a virtual body (body ownership), which can be influenced by the external appearance of the body and the ability to control the actions of the body (agency), and the possibility to feel the sensorial events directed to the body” (Makransky & Petersen, 2021, p. 946). Beyond agency, this concept is intertwined with several other phenomena (Kilteni et al., 2012), including presence – specifically, the illusion of Place (for a discussion on their intricate interplay, see Forster et al., 2022) – as well as the sense of self-location, or feeling co-located within a given body, and assumed body ownership, where “…the body is the source of the experienced sensations” (p. 377). In the current work, the factor most likely to affect embodiment is the depiction of realistic virtual hands. Specifically looking at the impact of this on presence ratings, Jung et al. (2018) asked 24 participants to perform several size-matching tasks in virtual reality (using an HTC Vive) via an input device (HTC Vive controller). In half the trials, participants saw their own hand streamed into their headset via a head-mounted camera, and in the other half, they saw a rendered responsive virtual hand (as is commonplace in modern virtual reality). Participants seeing their own hands (median 6 on a scale of 1- 7, interquartile range 2-7) evidenced higher self-presence (body ownership) ratings relative to those seeing hand models (median 3, 1-7); spatial presence (illusion of Place) scores for own hands (median 5, 2-7) also differed from model hands (median 5, 1-7; n.b. Mann-Whitney U tests were used for the analyses, the outcomes of which can be driven by range differences). However, a study by Zhang et al. (2020) is less supportive of this link to presence:  the authors asked 42 participants to complete a simple piece-sorting task where they had to move, for example, a triangle-shaped piece to a triangle-shaped slot. The realism of participants’ hands differed over the course of the experiment, alternating between a realistic hand, robotic hand, icon of a hand, simple block, or cursor. The cursor condition elicited significantly lower levels of presence than all other conditions, but none of these other conditions differed from each other in terms of the presence levels observed. Thus, whilst Jung et al. (2018) observed higher presence scores for realistic (real) hands relative to rendered hand models, Zhang et al. (2020) observed that block- and even icon-based representations of hands prompted near equivalent presence scores. This mixed pattern of results highlights the need for further research.
+
+Prior experience
+Prior experience with VR will likely influence how the above factors interplay with presence. For example, someone new to VR may find everything quite fantastic, with this (short-term) novelty found to boost enjoyment, educational outcomes and productivity (for an overview, see Koch et al., 2018; n.b. novelty also boosts cognitive loads, which others have found to have a negative impact on learning outcomes, Miguel-Alonso et al., 2023). A potential outcome of any such novelty effect is that ceiling effects in participants’ scoring of their experience could make it hard to identify more subtle differences in presence associated with the different components of hyper-reality. Indeed, novelty may be the predominant factor in driving some effects of new technologies; for example, Rutten et al. (2020) found that adding mid-air haptic feedback to a visual experience boosted experience attractiveness and pleasure, but these effects disappeared when controlling for novelty. We explore and control for such possible effects here. Confounding this issue, however, is the fact that hyper-reality experiences incorporate elements that would be considered novel even for those experienced with VR, including vibrating floor plates and blowing wind (via fans). Prior experience with VR may, therefore, prove to hold no predictive value in this situation.
+
+Hypotheses
+This study addresses gaps in the literature by exploring how specific multisensory and embodiment elements are experienced by users as contributing to their sense of presence in a VR experience at the Royal Opera House. We do not focus here on the broader implications for cultural institutions, such as visitor engagement, satisfaction, and long-term loyalty (e.g. Tussyadiah et al., 2018; Trunfio et al., 2022). We also do not focus on the expectations and emotional responses evoked by the operatic experience, nor on whether attending an operatic VR event might influence interest in attending a traditional opera. These topics will be explored separately.
+Our primary hypothesis, the Additional Elements Hypothesis, is that augmenting VR with elements designed to expand beyond the usual audiovisual stimulus in VR will be thought to boost presence relative to an imagined scenario where a given element was not present. These elements include being able to see others (e.g. Slater et al., 2000), having realistic virtual hands (Jung et al., 2018; c.f. Zhang et al., 2020), being able to walk around freely (have agency, Gallagher, 2000, p. 15, Sanchez-Vives & Slater, 2005), experiencing wind (Hülsmann et al., 2014) and feeling floor vibration (Grassini et al., 2021). 
+Another hypothesis, the Vibrotactile Less Effective Hypothesis, is that floor vibration will be thought to be less effective at boosting presence relative to other elements (e.g., Jung et al., 2022; Marucci et al., 2021). However, others have found that floor vibration can be impactful for presence ratings (Grassini et al., 2021), so this hypothesis is somewhat tentative. 
+The Previous Experience hypothesis predicts that previous experience with VR and immersive experiences may modulate these scores; however, given that many of the elements of hyper-reality are beyond those typically experienced in VR, we would expect the impact of previous experience to vary as a function of novelty of these elements.
+
+The current study
+
+We made use of a unique opportunity to investigate our hypotheses in the context of a real-world cultural experience. The in-person, location-based experience, Current Rising, was inspired by Shakespeare’s play, The Tempest, and focused on the liberation of Ariel that happens towards the end of the play. It won the 2021 ‘Out-of-Home VR Entertainment of the Year’ category at VR Awards (https://vrawards.aixr.org/) and was developed in collaboration between Audience Labs at the Royal Opera House and Figment Productions, with accompanying research undertaken by StoryFutures (Royal Holloway, University of London). The experience took an audience of four through a series of landscapes between dusk and dawn over a 15-minute period. The audience was required to walk around in the experience. At various points, the audience could see each other's avatars and see their own hands move via finger position trackers mounted on the VR headset. At several points in the experience, fans were used to simulate wind blowing at different intensities, and floor vibration plates were used to simulate the ground shaking. An estimation of the duration of each element is as follows: blowing wind was present for 5-30 seconds; free roam walking, throughout; floor vibration, 30 seconds; avatars seen almost continuously; virtual hands for 5-30 seconds.
+Conducting this study in a real-world cultural setting offers several advantages. Collecting data from genuine audience members allows us to capture natural engagement and behaviours often absent in lab-based research (Kingstone et al., 2008). Real-world settings also provide situational authenticity (Verhulst et al., 2021) – in our case, the Royal Opera House – which cannot be replicated in a laboratory. Additionally, feedback from live events can help provide valuable practical insights for the creators of future immersive experiences (Bennett et al., 2021). 
+
+
+Figure 1: Top-left, an illustration of a bass-shaker used to generate experience vibration. Top-right, screenshot from the experience showing an individual's rendered virtual hands and another partaker of the experience. Bottom-left, A. HTC Vive Tracker used to locate head position precisely, B. Leap Motion Controller for tracking hand position. Bottom-right, a rig-mounted fan for wind generation.
+
+Methods
+
+Participants
+Seven hundred and twenty-six participants filled in an online survey after taking part in the experience and after providing informed consent to take part in this research. The experience was booked online and cost £15 for people under the age of 25 and £20 for everyone else. Participants were required to be over 16 years of age to take part in the study (11 younger participants took part and were excluded from analyses and all reported statistics). Participants indicated gender via free-text entry, with 433 reporting as female, 275 male, one non-binary, one other, 16 unreported. The participants’ ages ranged from 16 to 78 years (M = 39.0 years, SD = 14); 681 reported being from the United Kingdom, 15 from China, nine from the USA and three from France (and one from each of the following countries: Albania, Austria, Azerbaijan, Germany, Israel, Italy, Lebanon, Netherlands, New Zealand, Saint Barthelemy, Spain and Ukraine; 6 did not answer this question). Data was collected from 21/5/2021 to 10/6/2021. All procedures followed University Ethics Committee protocols (ID: 2428-2021-05-19-09-53).
+
+Stimuli and Apparatus
+All data collection was undertaken on people’s own smart devices. The survey was run through www.testxr.org (developed by the authors) and was designed to be responsive and mobile-friendly, accommodating various device screen sizes. All questions were optional purposely. On all days, two A4 study information placards were visible to people finishing the experience (see Supplementary Material 1). These were placed on tables in the Linbury Foyer in the Royal Opera House (Figure 2), through which the participants were led before and after the experience. The placards explained the purpose of the survey and asked participants to visit a URL to complete the survey. People could also scan a QR code using their smartphones, which would automatically open the survey. Some days, one or two research assistants were present in the foyer, directing people’s attention to the placards and asking them to participate. Of the 2121 individuals who participated in the experience, approximately 34% completed the survey. The survey is provided in Supplementary Material 2, and the code that specified it in Supplementary Material 3. Here, we focus on a subset of the questions asked in the survey (additional findings based on the questions outside of this subset will be presented elsewhere).
+
+Design
+The experiment was based on a mixed-effects design. Dependent variables were: 1) the degree to which participants thought a given element ‘drew them in’ to the experience (perceived Presence: a judgement of how important an element was in creating an overall sense of presence, assessed by the question – “the aspects below are not normally present in virtual reality. To what extent do you agree that they helped draw you into the experience more than if they were not present?”, with each element rated on a 5-point Likert scale with the options: very much so, somewhat, not sure, not really, not at all); and 2) overall Enjoyment of the experience (“Overall, how much did you enjoy the experience?”, answered via a 5-point scale, depicted with 1 to 5 stars). Predictors were Element (blowing wind, free roam walking, floor vibration, audience avatars and virtual hands), Age, Gender (both free form entered; the latter relabelled by hand as male, female, or NA), whether people had ever before taken part in a location-based VR experience (Location-based; yes or no) or had ever tried VR (EverUsedVR; “Have you ever used a virtual or augmented reality headset before today?”, 4-point Likert scale: never, once or twice, occasionally, regularly). The random factor of Participant was also included. 
+
+Procedure
+Audience members were welcomed to the Royal Opera House and guided to the Linbury Foyer, where an usher was waiting to assist them in their experience. The ushers received an instruction sheet to help them convey the correct information to participants. In the Linbury Foyer, the usher communicated, “…after your experience please help our research/future production planning by completing visitor evaluation via QR codes…”. After people had undertaken the experience, which took place down a set of stairs in a closed-off section of the Linbury Theatre, ushers were asked to encourage visitors to complete the survey. Returning to the Linbury Foyer, ushers were asked to mention: “Before leaving the Opera House please help our project partners by completing the visitor evaluation (QR codes).” It was at this point that research assistants provided additional encouragement to take part in the survey and offered a choice of wrapped chocolate bars (and similar alternatives such as treats suitable for vegans) in return for taking part. Participants were debriefed about the nature of the study at the end of the survey.
+The experience was run throughout each day (21/5/2021 to 10/6/2021). The first slot was at 9.40 am and the last at 7.25 pm, giving 28 slots during the day with a maximum of 4 people booked in for each slot (mean 3.60, STD .95). The VR experience was 15 minutes in duration, and the survey took about 10 minutes to complete.
+
+
+Figure 2. The Linbury Foyer, The Royal Opera House, ©2018 ROH. Photograph by Luke Hayes. Off camera, at the bottom right were chairs and tables where people could sit and fill in the questionnaire.
+
+Analysis
+Linear mixed model and linear model analyses were conducted in R and RStudio (R Core Team, 2023; Posit team, 2023; henceforth, references and version information for statistical packages are reported in Supplementary Material 4). We used the ordinal package as the dependent variables are on a 5-point Likert scale. To include random factors in some of our models (participant ID), we used this package's Cumulative Link Mixed Models function (clmm). The Cumulative Link Models function (clm) was used for some linear model analyses. To aid comprehension, we re-ran ordinal models as linear mixed-effects models (recording the dependent variable as integers) and reported linear model-based estimated marginal means where appropriate (EMMs; a measure of the mean based on the fitted model after controlling for other predictors). 
+The analyses focused on exploring factors influencing Presence (as a reminder, based on the question: “To what extent do you agree that [a given element] helped draw you into the experience more than if they were not present?” parentheses added to aid clarity). Predictors in these analyses were the Element (blowing wind, free-roam-walking, audience-avatars, floor-vibration, virtual-hands), overall Enjoyment, EverUsedVR (before), LocationBased (ever done location-based VR before), Age and reported Gender; we also included the interaction terms Element:EverUsedVr and Element:LocationBased. In Supplementary Material 5, we created a separate linear regression model identical to the previous one except that the dependent variable focused on a measure of Presence focusing on the whole experience and how the individual elements’ Presence ratings (entered as an integer factor) contributed with this, alongside the interaction term Element. In Supplementary Material 6, via a separate linear regression model, we explored factors that contributed to participants’ enjoyment ratings. 
+To establish whether factors and the interaction contributed significantly to model fit, we constructed models excluding the given term and tested whether they differed from the full model via likelihood ratio tests (mixed-effects models) and F-tests (linear models) through the anova function of the core R package. For mixed-effects models, the anova function also provided Akaike information criterion (AIC) values, with lower values indicating models with better fit and fewer parameters, helping assess whether excluding a term increased information loss. For completeness, AIC values for linear models were calculated via the AIC function of the core R package. Impactful interactions were explored further via the emmeans package, which was used to construct pairwise contrasts and EMMs (adjustment for multiple comparisons via the Tukey method). Convergence was assessed by the convergence function from the Ordinal package (rerunning the model without random effects as per requirements of this function). The parallel regression assumption was tested via the brant package – as there is no way currently to test for this assumption for models containing random effects, we re-ran models, dropping random factors and using the polr function from the MASS package (the brant package requiring a polr model). Assumptions of homoskedasticity, linearity and normality of residuals were checked visually via plots and histograms (Winter, 2013; dependent variables were first cast as integers, and the models re-run using the lmer function as part of the lme4 package). The vif function from the car package was used to test for issues of multicollinearity.
+
+Results
+
+A summary of the final model, presence ∼ 1 + age + gender + enjoyment + ownVR + everUsedVR + locationbased + element+ element * locationbased + element * everUsedVR + (1 | participant), is provided in Table 1. Data can be found https://osf.io/vamxg/. 
+
+Table 1. Summary of the Presence model. *These predictors are a product of the ordinal analysis and relate to the 1-5 scoring for presence. Variance inflation factor scores (VIF) for all predictors were less than 2.2, implying there was no cause for concern for issues of multicollinearity. Dummy coding was used to contrast categorical factors, with one level of each factor selected as the reference level (reference levels are thus not shown in the table below). 
+ 
+ 
+presence
+Predictors
+Odds Ratios
+CI
+p
+1|2*
+0.06
+0.02 – 0.15
+<0.001
+2|3*
+0.32
+0.12 – 0.84
+0.021
+3|4*
+1.09
+0.42 – 2.85
+0.861
+4|5*
+6.62
+2.52 – 17.36
+<0.001
+age
+0.99
+0.98 – 1.00
+0.010
+gender [1]
+1.12
+0.89 – 1.42
+0.328
+enjoy
+2.20
+1.85 – 2.62
+<0.001
+ownVR [2]
+0.76
+0.46 – 1.24
+0.265
+locationbased [2]
+0.97
+0.57 – 1.65
+0.916
+element [free-roam-walking]
+0.61
+0.39 – 0.95
+0.027
+element [audience-avatars]
+0.41
+0.27 – 0.63
+<0.001
+element [floor-vibration]
+0.58
+0.38 – 0.91
+0.016
+element [virtual-hands]
+0.23
+0.15 – 0.35
+<0.001
+everUsedVR [Once or
+twice]
+1.06
+0.62 – 1.80
+0.840
+everUsedVR [Occasionally]
+0.84
+0.40 – 1.75
+0.637
+everUsedVR [Regularly]
+1.83
+0.63 – 5.33
+0.265
+locationbased [2] × element
+[free-roam-walking]
+1.09
+0.57 – 2.10
+0.786
+locationbased [2] × element
+[audience-avatars]
+0.95
+0.51 – 1.78
+0.870
+locationbased [2] × element
+[floor-vibration]
+1.03
+0.55 – 1.93
+0.934
+locationbased [2] × element
+[virtual-hands]
+0.90
+0.49 – 1.66
+0.736
+element [free-roam-walking] ×
+everUsedVR [Once or
+twice]
+1.07
+0.56 – 2.06
+0.828
+element [audience-avatars] ×
+everUsedVR [Once or
+twice]
+1.12
+0.59 – 2.12
+0.724
+element [floor-vibration] ×
+everUsedVR [Once or
+twice]
+0.72
+0.38 – 1.37
+0.316
+element [virtual-hands] ×
+everUsedVR [Once or
+twice]
+1.06
+0.57 – 1.97
+0.850
+element [free-roam-walking] ×
+everUsedVR [Occasionally]
+1.60
+0.65 – 3.92
+0.303
+element [audience-avatars] ×
+everUsedVR [Occasionally]
+1.06
+0.45 – 2.51
+0.888
+element [floor-vibration] ×
+everUsedVR [Occasionally]
+0.51
+0.22 – 1.21
+0.127
+element [virtual-hands] ×
+everUsedVR [Occasionally]
+1.06
+0.46 – 2.45
+0.898
+element [free-roam-walking] ×
+everUsedVR [Regularly]
+1.79
+0.52 – 6.20
+0.357
+element [audience-avatars] ×
+everUsedVR [Regularly]
+0.96
+0.30 – 3.03
+0.944
+element [floor-vibration] ×
+everUsedVR [Regularly]
+0.80
+0.25 – 2.57
+0.706
+element [virtual-hands] ×
+everUsedVR [Regularly]
+0.33
+0.11 – 1.01
+0.051
+Random Effects
+σ2
+3.29
+τ00 id
+1.25
+ICC
+0.28
+N id
+694
+Observations
+3462
+Marginal R2 / Conditional R2
+0.121 / 0.363
+
+
+Figure 3. Left, depicting the frequency people responded with the different rating options to the question, ‘The aspects below are not normally present in virtual reality. To what extent do you agree that they helped draw you into the experience more than if they were not present?’ Right, showing the same data, except treating the ordinal data as continuous; means and their 95% confidence intervals are shown. Label ‘ns’ indicates a non-significant difference (p>.05) between conditions; all other conditions significantly differed from each other (p<.0001). 
+
+Dropping the element:everVR interaction from the full model (AIC=6579.1) significantly impacted model fit, AIC=6577.81, χ2(df=12)=22.68 p<.05 whilst dropping the element:locationbased interaction from did not, AIC=6571.6, χ2(df=4)=0.50 p>.05. To tease apart the first interaction, we looked at the impact of Element at each level of EverVR (as a reminder, we used the emmeans package for posthoc analyses, allowing us to generate predicted marginal mean values for a given condition while controlling for other variables in the model; this offers us more flexibility in the analysis than that reported in Table 1). The only significant difference was observed for Floor Vibration where Regular users of VR (EMMs=3.59, CI=2.82-4.35) were more likely to rate this Element more highly than Occasional Users (MMs=2.36, CI=1.90-2.82, p<.05). Scores for those who regularly do VR did not differ from those had never used VR before (EMMs=3.12, CI=2.64-3.60), or had used it once or twice (EMMs=2.87, CI=2.49-3.24), which makes us suspect this solitary statistical difference arose by chance. 
+Considering just the main effect of element (plotted in Figure 3), we find that whilst Blowing wind (EMMs=4.66, CI=4.57-4.74 on the 5-point scale) and Free roam walking (4.60, 4.52-4.69) did not differ from each other, and Floor vibration (4.39, 4.30-4.48) and Audience Avatars (4.38, 4.30-4.47) did not differ, all other combinations of conditions did significantly differ from each other at a level greater than that expected by chance (p<.001). Virtual hands (4.01, 3.92-4.09) scored lowest on the scale.
+There was a significant negative association between Age and Presence, odds ratio=.99, p<.05, CI=.98-1, such that with every year increase in age, a person was .99 times as likely to rate the experience in the next higher subsequent category on the rating scale (so every 10 years, a .90 likelihood). There was also a relationship with Enjoyment: for every unit increase in Enjoyment score (5-point scale), there was a 2.20 increase in the likelihood of being in the next higher presence category, p<.001, CI=1.85-2.62.
+We also explored the link between an overall measure of presence taken for the whole experience (ExperiencePresence) and the individual ratings that each element was given to their contribution to Presence, documented in Supplementary Material 5. Presence scores positively predicted ExperiencePresence ratings (β=0.15, CI=0.09-0.22), supporting the notion that our dependent variable measured what we set out for it to measure. 
+In Supplementary Material 6, we document the construction of a model exploring the factors predicting experience enjoyment. Presence was found to co-vary with enjoyment, mirroring the results reported in Table 1 (odds ratio=2.20, p<.01, CI=1.85-2.62) and congruent with past findings (e.g. Jung et al., 2016; Tussadiah et al., 2018).
+
+Discussion
+
+This study addresses a gap in the existing literature by examining the relative contributions of multisensory elements and embodiment to perceived presence in VR, a subject that has yielded inconsistent findings in past research (e.g., Marucci et al., 2021; Jung et al., 2022), and extending this to a large, real-world cultural setting. In total, 726 participants took part in a hyper-reality experience incorporating floor vibration, wind effects, free-roam walking, audience avatars and realistic virtual hands, in addition to the more standard audiovisual elements afforded by most headsets, and then completed a survey on their experience of these additional elements. Supporting the Additional Elements hypothesis (that augmenting VR with elements designed to expand what is normally present in VR will boost presence scores), these elements were judged by participants to have contributed to their sense of presence at a level above that expected by chance, with the relative ranked impacts on presence being: blowing wind and free-roam walking > floor vibration and audience avatars > having virtual hands. Presumably, this ranking could vary across experiences, as will be discussed in the following sections. Contrary to the Vibrotactile Less Effective Hypothesis, floor vibration was middle scoring in terms of relative impact (in line with some past research, Grassini et al., 2021; Marucci et al., 2021; c.f. Jung et al., 2021).
+While having virtual hands still contributed to drawing people into the experience (in line with past research, Zhang et al., 2020; Jung et al., 2018), its role was the least impactful among the elements tested. Why was this so? One explanation for this finding is that the hands in this experience were not pivotal to storyline progression (e.g. no hand-based interactions were required to continue), whereas in the studies reporting impact-of-hands on presence, the tasks employed were hand-based (Jung et al., 2018; Zhang et al., 2020). If this were true, this implies that attention (perhaps driven by salience/relevance) mediates the impact of elements on perceived presence. Whilst we are unaware of this link having been explored before, intuitively, it does make sense: with closer scrutiny to given rendered sensory information, presumably inaccuracies become more apparent, potentially momentarily breaking presence (which leads to detectable changes in physiological response, the measurement of which, it has been argued, is a better and less bias-prone indicator of presence; Slater et al., 2003). Another explanation is suggested by the fact that seeing renderings of hands is commonplace in modern VR (compared with the other elements incorporated here), which may have reduced the relative perceived impact of virtual hands on presence (perhaps mediated by enjoyment, which influences presence; Koch et al., 2018). However, we did not observe any convincing effect of past experience with VR influencing presence ratings for the individual elements (suggesting that users' familiarity with the virtual hands used in modern VR is unlikely to have been behind the relative lack of perceived impact of virtual hands on presence that we observe here). A last explanation is that the way we measured individual impacts of presence for each element led to our results being open to a range of confounding factors (e.g. of attention and novelty; for a relevant discussion, see Slater et al., 2003), which we discuss in more detail later. 
+Note that a reader of an earlier version of this manuscript also pointed out that elements triggered by events (e.g. wind when leaning your head out of a virtual car window) versus continually present elements (always seeing virtual hands) may well contribute differently to presence, which may also be driven by attention (and/or surprise). We wish to thank a reviewer who further pointed out that variation in stimulus intensity and the duration of activation could also influence perceived presence ratings. However, curiously, the relative impacts of the different elements on perceived presence in this study did not follow any discernible pattern in terms of element duration/intensity, ruling out any trivial explanation for the results in these terms (e.g. that elements that were judged more important for presence simply due to being presented for longer) and instead implying a possible rich interplay between such factors. For example, blowing wind was only present for a short section of the experience, whereas free roam walking was present throughout, yet both elements scored similarly highly in terms of their perceived impact on presence. 
+There was little evidence to support the Previous Experience hypothesis, with only the perceived presence scores for floor vibration being influenced by the level of experience – this happened, though, in a way we thought more likely attributable to statistical chance than to any underlying effect. We previously speculated that hyper-reality experiences incorporate many elements that would be considered novel even for those experienced with VR, including vibrating floor plates and blowing wind; this may well account for this lack of impact. It would be worth revisiting this question when such hyper-reality experiences become more mainstream (or, as later discussed, by experimentally manipulating whether or not sensory elements are incorporated) with participants who have had greater exposure to such experiences.
+
+Limitations and future steps
+Conducting research in a live location poses some unique challenges. Experiment parameters cannot be systematically varied as doing so can negatively impact the user experience. In such situations, experimenters must rely on correlational data, which may not be ideal but is sometimes the only option available (it is “all we have,” Levitin, 2002, p. 120; although we acknowledge that some argue this is not an option at all, Viglia & Dolnicar, 2020). Due to these design constraints, we were restricted to assessing perceived impacts on presence for each element via a single question (“To what extent do you agree that… [the element]... helped draw you into the experience more than if they were not present?”; text within the square brackets was added to aid comprehension).
+Were our participants able to assess the impacts on presence of the individual elements? Indeed, is presence ‘divisible’ in this fashion? Presumably, ‘breaks in presence’ (Slater et al., 2003) can sometimes be attributable to a given element, which indicates our measure could identify low-scoring elements. But what about high-scoring elements? If it is the goal of hyper-reality is to stimulate the senses as similarly as possible to what occurs in the actual world (we discuss this more later), an argument is that awareness of procedures to achieve this (and thus the ability to assess their impact consciously) reflects a failure of the simulation system. So paradoxically, according to this, very well-simulated elements may not be recognised as contributing to presence, as people were unaware of (or could not remember) their impact. Presumably, the novelty of elements not usually present in VR could likewise draw attention to these elements, potentially inflating/confounding perceived (but not actual) relative impacts on presence as well. Future research will be needed to explore this consideration.
+Given the above, one might argue that an approach in which each sensation is systematically omitted would have been more effective in isolating the impacts of each element, ruling out various confounding effects mentioned previously. However, the conditions that prevented us from taking this approach within the current study also contribute to one of the study’s main strengths – collecting data from large numbers of genuine audience members attending a real-world cultural experience. Given that the addition of sensory elements into VR increases the costs involved in delivering the experience, it is essential to understand the responses of actual audience members to these interventions rather than relying solely on feedback from paid research participants. Ultimately, our understanding of presence in virtual environments will progress most effectively through the combination of lab-based and real-world research.
+Although a noted shortcoming for all research using questionnaires to assess presence (e.g. Slater, 2004; Freeman et al., 1999) is that participants are aware of the goal of the study and so subject to various biases (e.g. Podsakoff et al., 2003), we would not expect such biases to affect ratings of one element more so than another. Presumably, however, if biases induced ceiling and floor effects, then this could reduce the chances of observing any differences. Additionally, as a reviewer pointed out, participants were compensated for their involvement in the experience by the offer of chocolate for survey completion. This could have introduced several types of bias, potentially skewing the results. Nevertheless, any such effects should not have impacted the judgments regarding the relative impacts of the different elements, which is the primary focus of this paper.
+Previously, we considered that the goal of hyper-reality is to stimulate the senses in as similar a way as possible to the actual world. Given that, ultimately, people know that they are in VR, could the goal rather be to surprise and delight people with the 'convincingness' of an experience that is ultimately known as ‘fake’? If so, should hyper-reality elements be tailored to maximally boost surprise and delight instead of to signal realness? Could we go one step further by purposely drawing attention to these elements, perhaps by providing vibration when simulating an earthquake that includes frequencies/fluctuations/patterns/pulses that are not reality-mirroring, but have been demonstrated to be attention grabbing? This is an intriguing future research proposition. 
+As noted by a reviewer, we acknowledge that a limitation of this research is that we did not consider other user experience factors that can influence the sense of presence, such as emotional engagement (Magalhães et al., 2023) and narrative structure (Silva & Brandão., 2020). Future research would benefit from incorporating additional measures to assess these elements and adopting a more interdisciplinary approach that includes insights from fields like anthropology and media arts. These steps would ultimately lead to a better understanding of what drives presence in hyper-reality experiences.
+Conclusions
+This study is among the first to investigate how users perceive the impacts of various multisensory and embodiment elements on their sense of presence in a large, real-world cultural setting. It provides valuable insights into how hyper-reality can enhance the feeling of presence in virtual reality (VR). Whilst past research has demonstrated this in a lab setting, our research extends this to real-world cultural experiences outside of the lab, albeit with the drawback that we had to rely on user perceptions rather than experimental manipulations because of the real-world context. To achieve this, we surveyed 726 participants about how various factors contributed to their sense of presence during a VR experience at the National Opera House. Factors included the impact of the addition of multisensory elements and virtual bodies not ordinarily present in VR whilst considering prior experience and enjoyment. We found that blowing wind and free roam walking floor were perceived as among the most impactful, followed by floor vibration (contrary to past research) and seeing avatars. Virtual hands were reported to have had the least impact. However, we suspected that if the experience incorporated hand-based interaction, we would have observed a greater relative impact of this element on presence. Past VR experience had little influence on the immersive experience. As well as furthering our understanding of the determinants of presence in virtual environments, these findings will be informative for creatives considering how best to augment their next immersive experience. Whilst we suspect that the relative impact of various elements on presence will vary according to attributes of a given experience, as a rule of thumb, knowing that simulating wind and allowing free form walking are relatively impactful ways of boosting presence relative to virtual hands is informative and could help decide which elements to focus on when developing hyper-sensory experiences.
+
+References
+
+Barroso, P. (2022). From reality to the hyperreality of simulation. Texto Livre, 15, e37426. https://doi.org/10.35699/1983-3652.2022.37426
+Bennett, J., Dalton, P., Goriunova, O., Preece, C., Whittaker, L., Verhulst, I., & Woods, A. (2021). The story of immersive users. StoryFutures Audience Insight Report.
+Carrillo-Reid, L., & Yuste, R. (2020). Playing the piano with the cortex: Role of neuronal ensembles and pattern completion in perception and behavior. Current Opinion in Neurobiology, 64, 89–95. https://doi.org/10.1016/j.conb.2020.03.014
+de Lange, F. P., Heilbron, M., & Kok, P. (2018). How do expectations shape perception? Trends in Cognitive Sciences, 22(9), 764–779. https://doi.org/10.1016/j.tics.2018.06.002
+Diemer, J., Alpers, G. W., Peperkorn, H. M., Shiban, Y., & Mühlberger, A. (2015). The impact of perception and presence on emotional reactions: A review of research in virtual reality. Frontiers in Psychology, 6, 111605. https://doi.org/10.3389/fpsyg.2015.00026
+Dinh, H. Q., Walker, N., Hodges, L. F., Song, C., & Kobayashi, A. (1999). Evaluating the importance of multi-sensory input on memory and the sense of presence in virtual environments. Proceedings IEEE Virtual Reality (Cat. No. 99CB36316), IEEE, 222–228. https://doi.org/10.1109/VR.1999.756955
+Flavián, C., Ibáñez-Sánchez, S., & Orús, C. (2021). The influence of scent on virtual reality experiences: The role of aroma-content congruence. Journal of Business Research, 123, 289–301. https://doi.org/10.2139/ssrn.4128176
+Forster, P.-P., Karimpur, H., & Fiehler, K. (2022). Why we should rethink our approach to embodiment and presence. Frontiers in Virtual Reality, 3, 838369. https://doi.org/10.3389/frvir.2022.838369
+Freeman, J., Avons, S. E., Pearson, D. E., & IJsselsteijn, W. A. (1999). Effects of sensory information and prior experience on direct subjective ratings of presence. Presence, 8(1), 1–13. https://doi.org/10.1162/105474699566017
+Gallace, A., Ngo, M. K., Sulaitis, J., & Spence, C. (2012). Multisensory presence in virtual reality: Possibilities & limitations. In G. Ghinea, F. Andres, & S. R. Gulliver (Eds.), Multiple sensorial media advances and applications: New developments in MulSeMedia (pp. 1–38). IGI Global. https://doi.org/10.4018/978-1-60960-821-7.ch001
+Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. Trends in Cognitive Sciences, 4(1), 14–21. https://doi.org/10.1016/s1364-6613(99)01417-5
+Grassini, S., Laumann, K., de Martin Topranin, V., & Thorp, S. (2021). Evaluating the effect of multi-sensory stimulations on simulator sickness and sense of presence during HMD-mediated VR experience. Ergonomics, 64(12), 1532–1542. https://doi.org/10.1080/00140139.2021.1941279
+Grassini, S., Laumann, K., & Rasmussen Skogstad, M. (2020). The use of virtual reality alone does not promote training performance (but sense of presence does). Frontiers in Psychology, 11, 553693. https://doi.org/10.3389/fpsyg.2020.01743
+Haggard, P., & Chambon, V. (2012). Sense of agency. Current Biology, 22(10), R390–R392. https://doi.org/10.1093/acprof:oso/9780190267278.001.0001
+Heater, C. (1992). Being there: The subjective experience of presence. Presence Teleoperators and Virtual Environments, 1(2), 262–271. https://doi.org/10.1162/pres.1992.1.2.262
+Hülsmann, F., Mattar, N., Fröhlich, J., & Wachsmuth, I. (2014). Simulating wind and warmth in virtual reality: conception, realization and evaluation for a cave environment. Journal of Virtual Reality and Broadcasting, 11(10). https://doi.org/10.1145/2617841.2620712
+Huttenlocher, J., Hedges, L. v, & Vevea, J. L. (2000). Why do categories affect stimulus judgment? Journal of Experimental Psychology: General, 129(2), 220–241. https://doi.org/10.1037//0096-3445.129.2.220
+Johnson-Glenberg, M. C., Megowan-Romanowicz, C., Birchfield, D. A., & Savio-Ramos, C. (2016). Effects of embodied learning and digital platform on the retention of physics content: Centripetal force. Frontiers in Psychology, 7, 213387. https://doi.org/10.3389/fpsyg.2016.01819
+Jung, S., Bruder, G., Wisniewski, P. J., Sandor, C., & Hughes, C. E. (2018). Over my hand: Using a personalized hand in VR to improve object size estimation, body ownership, and presence. Proceedings of the 2018 ACM Symposium on Spatial User Interaction, ACM, 60–68. https://doi.org/10.1145/3267782.3267920
+Jung, S., Li, R., McKee, R., Whitton, M. C., & Lindeman, R. W. (2021). Floor-vibration VR: Mitigating cybersickness using whole-body tactile stimuli in highly realistic vehicle driving experiences. Transactions on Visualization and Computer Graphics, IEEE, 27(5), 2669–2680. https://doi.org/10.1109/TVCG.2021.3067773
+Jung, S., Wood, A. L., Hoermann, S., Abhayawardhana, P. L., & Lindeman, R. W. (2020). The impact of multi-sensory stimuli on confidence levels for perceptual-cognitive tasks in VR. In Y. Choi, J. Lee, S. H. Lee, M. Nitsche, P. McBride, J. Ahn, & J. Han (Eds.), Conference on Virtual Reality and 3D User Interfaces, IEEE (pp. 463–472). https://doi.org/10.1109/VR46266.2020.00067
+Jung, S., Wu, Y., McKee, R., & Lindeman, R. W. (2022). All shook up: The impact of floor vibration in symmetric and asymmetric immersive multi-user VR gaming experiences. In Y. Choi, J. Lee, S H Lee, M Nitsche, P McBride, J Ahn, & J Han (Eds.), Conference on Virtual Reality and 3D User Interfaces (VR), IEEE (pp. 737–745). https://doi.org/10.1109/VR51125.2022.00095
+Jung, T., tom Dieck, M. C., Lee, H., & Chung, N. (2016). Effects of virtual reality and augmented reality on visitor experiences in museum. In A Inversini & R Schegg (Eds.), Information and Communication Technologies in Tourism: Proceedings of the International Conference, Springer International Publishing (pp. 621–635). https://doi.org/10.1007/978-3-319-28231-2_45
+Kantowitz, B. H., Roediger, H. L., & Elmes, D. G. (2015). Experimental psychology. Cengage.
+Kilteni, K., Groten, R., & Slater, M. (2012). The sense of embodiment in virtual reality. Presence: Teleoperators and Virtual Environments, 21(4), 373–387. https://doi.org/10.3389/frvir.2023.1141683
+Kingstone, A., Smilek, D., & Eastwood, J. D. (2008). Cognitive ethology: A new approach for studying human cognition. British Journal of Psychology, 99(3), 317–340. https://doi.org/10.1348/000712607x251243
+Koch, M., von Luck, K., Schwarzer, J., & Draheim, S. (2018). The novelty effect in large display deployments–experiences and lessons-learned for evaluating prototypes. Proceedings of 16th European Conference on Computer-Supported Cooperative Work-Exploratory Papers, EUSSET.
+Kockord, R., & Bodensiek, O. (2021). Cognitive load during first contact with mixed reality learning environments. Proceedings of Mensch Und Computer, 2021, 260–264. https://doi.org/10.1145/3473856.3474003
+Lee, H., Jung, T. H., tom Dieck, M. C., & Chung, N. (2020). Experiencing immersive virtual reality in museums. Information & Management, 57(5), 103229. https://doi.org/10.1016/j.im.2019.103229
+Levitin, D. J. (2002). Experimental design in psychological research. In D. J. Levitin (Ed.), Foundations of cognitive psychology: Core readings (pp. 115–130). MIT Press. https://doi.org/10.7551/mitpress/3080.003.0011
+Longo, M. R., Schüür, F., Kammers, M. P. M., Tsakiris, M., & Haggard, P. (2008). What is embodiment? A psychometric approach. Cognition, 107(3), 978–998. https://doi.org/10.1016/j.cognition.2007.12.004
+Magalhães, M., Coelho, A., Melo, M., & Bessa, M. (2024). Measuring users’ emotional responses in multisensory virtual reality: A systematic literature review. Multimedia Tools and Applications, 83(14), 43377–43417. https://doi.org/10.1007/s11042-023-16918-1
+Makransky, G., Terkildsen, T. S., & Mayer, R. E. (2019). Adding immersive virtual reality to a science lab simulation causes more presence but less learning. Learning and Instruction, 60, 225–236. https://doi.org/10.1016/j.learninstruc.2017.12.007
+Marucci, M., di Flumeri, G., Borghini, G., Sciaraffa, N., Scandola, M., Pavone, E. F., Babiloni, F., Betti, V., & Aricò, P. (2021). The impact of multisensory integration and perceptual load in virtual reality settings on performance, workload and presence. Scientific Reports, 11(1), 4831. https://doi.org/10.1038/s41598-021-84196-8
+Miguel-Alonso, I., Rodriguez-Garcia, B., Checa, D., & Bustillo, A. (2023). Countering the novelty effect: A tutorial for immersive virtual reality learning environments. Applied Sciences, 13(1), 593. https://doi.org/10.3390/app13010593
+Oh, C. S., Bailenson, J. N., & Welch, G. F. (2018). A systematic review of social presence: Definition, antecedents, and implications. Frontiers in Robotics and AI, 5, 409295. https://doi.org/10.3389/frobt.2018.00114
+Parong, J., Pollard, K. A., Files, B. T., Oiknine, A. H., Sinatra, A. M., Moss, J. D., Passaro, A., & Khooshabeh, P. (2020). The mediating role of presence differs across types of spatial learning in immersive technologies. Computers in Human Behavior, 107, 106290. https://doi.org/10.1016/j.chb.2020.106290
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method biases in behavioral research: a critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879. https://doi.org/10.1037/0021-9010.88.5.879
+R Core Team. (2013). R: A language and environment for statistical computing. R Foundation for Statistical Computing.
+R Studio Team. (2021). RStudio: Integrated development environment for R.
+Rutten, I., den Bogaert, L., & Geerts, D. (2020). From initial encounter with mid-air haptic feedback to repeated use: The role of the novelty effect in user experience. IEEE Transactions on Haptics, 14(3), 591–602. https://doi.org/10.1109/toh.2020.3043658
+Sanchez-Vives, M. v, & Slater, M. (2005). From presence to consciousness through virtual reality. Nature Reviews Neuroscience, 6(4), 332–339. https://doi.org/10.1038/nrn1651
+Silva, R., & Brandão, D. (2021). Narrative objects in virtual reality. In N. Martins, D. Brandão, & F. Ribeiro (Eds.), Perspectives on design and digital communication: Research, innovations and best practices (pp. 117–139). Springer. https://doi.org/10.1007/978-3-030-49647-0_8
+Slater, M. (2004). How colorful was your day? Why questionnaires cannot assess presence in virtual environments. Presence, 13(4), 484–493. https://doi.org/10.1162/1054746041944849
+Slater, M. (2009). Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1535), 3549–3557. https://doi.org/10.1098/rstb.2009.0138
+Slater, M., Brogni, A., & Steed, A. (2003). Physiological responses to breaks in presence: A pilot study. The 6th Annual International Workshop on Presence, 157, Citeseer.
+Slater, M., Lotto, B., Arnold, M. M., & Sanchez-Vives, M. v. (2009). How we experience immersive virtual environments: The concept of presence and its measurement. Anuario de Psicología, 40(2), 193–210.
+Slater, M., Sadagic, A., Usoh, M., & Schroeder, R. (2000). Small-group behavior in a virtual and real environment: A comparative study. Presence, 9(1), 37–51. https://doi.org/10.1162/105474600566600
+Spence, C., & Gao, Y. (2024a). Augmenting home entertainment with digitally delivered touch. I-Perception, 15(5), 20416695241281470. https://doi.org/10.1177/20416695241281474
+Spence, C., & Gao, Y. (2024b). Enhancing public entertainment with touch: Possibilities and pitfalls. I-Perception, 15(5), 20416695241280716. https://doi.org/10.1177/20416695241280715
+Sun, W., Huang, M., Wu, C., & Yang, R. (2022). Sense of agency in mid-air translation with head-mounted AR. 2022 1st IEEE International Conference on Cognitive Aspects of Virtual Reality (CVR), IEEE, 61–64. https://doi.org/10.1109/cvr55417.2022.9967506
+Trunfio, M., Jung, T., & Campana, S. (2022). Mixed reality experiences in museums: exploring the impact of functional elements of the devices on visitors’ immersive experiences and post-experience behaviours. Information & Management, 59(8), 103698. https://doi.org/10.1016/j.im.2022.103698
+Tsakiris, M. (2017). The multisensory basis of the self: From body to identity to others. Quarterly Journal of Experimental Psychology, 70(4), 597–609. https://doi.org/10.1080/17470218.2016.1181768
+Tussyadiah, I. P., Wang, D., Jung, T. H., & tom Dieck, M. C. (2018). Virtual reality, presence, and attitude change: Empirical evidence from tourism. Tourism Management, 66, 140–154. https://doi.org/10.1016/j.tourman.2017.12.003
+Verhulst, I., Woods, A., Whittaker, L., Bennett, J., & Dalton, P. (2021). Do VR and AR versions of an immersive cultural experience engender different user experiences? Computers in Human Behavior, 125, 106951. https://doi.org/10.1016/j.chb.2021.106951
+Viglia, G., & Dolnicar, S. (2020). A review of experiments in tourism and hospitality. Annals of Tourism Research, 80, 102858. https://doi.org/10.1016/j.annals.2020.102858
+Wei, W., Qi, R., & Zhang, L. (2019). Effects of virtual reality on theme park visitors’ experience and behaviors: A presence perspective. Tourism Management, 71, 282–293. https://doi.org/10.1016/j.tourman.2018.10.024
+Winter, B. (2013). Linear models and linear mixed effects models in R with linguistic applications. ArXiv Preprint ArXiv:1308.5499. http://arxiv.org/pdf/1308.5499.pdf
+Woods, A. T., Poliakoff, E., Lloyd, D. M., Kuenzel, J., Hodson, R., Gonda, H., Batchelor, J., Dijksterhuis, G. B., & Thomas, A. (2011). Effect of background noise on food perception. Food Quality and Preference, 22(1), 42–47. https://doi.org/10.1016/j.foodqual.2010.07.003
+Zhang, J., Huang, M., Zhao, L., Yang, R., Liang, H.-N., Han, J., Wang, L., & Sun, W. (2020). Influence of hand representation design on presence and embodiment in virtual environment. 2020 13th International Symposium on Computational Intelligence and Design (ISCID), IEEE, 364–367. https://doi.org/10.1109/iscid51228.2020.00088
+Zhou, L. F., & Meng, M. (2020). Do you see the “face”? Individual differences in face pareidolia. Journal of Pacific Rim Psychology, 14, e2. https://doi.org/10.1017/prp.2019.27
+
+Acknowledgements
+This research was funded by an Innovate UK grant (105169) through the StoryFutures Creative Cluster (AHRC grant AH/S002758/1) at Royal Holloway, University of London.
