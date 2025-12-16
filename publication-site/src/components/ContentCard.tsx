@@ -68,7 +68,7 @@ export const ContentCard = ({ node, onClose }: ContentCardProps) => {
                     {node.image && (
                         <div className="h-64 bg-gray-900 relative overflow-hidden shrink-0">
                             <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/90 z-10" />
-                            <img src={node.image} alt={node.title} className="w-full h-full object-cover opacity-80" />
+                            <img src={`${import.meta.env.BASE_URL}${node.image}`} alt={node.title} className="w-full h-full object-cover opacity-80" />
                         </div>
                     )}
 
